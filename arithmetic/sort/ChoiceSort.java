@@ -4,7 +4,7 @@ import java.util.Objects;
 /**
  *
  * 选择排序
- * @author Albert Ku
+ * @author vanku
  * @date 2020/1/25
  * @time 16:33
  */

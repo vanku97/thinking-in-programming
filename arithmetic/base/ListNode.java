@@ -1,5 +1,7 @@
+package base;
+
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2019/11/8
  * @time 13:01
  * @content 双向链表
@@ -8,10 +10,10 @@
 
 public class ListNode {
 
-    int val;
-    ListNode prev;
-    ListNode next;
-    ListNode(int x) {
+    public int val;
+    public ListNode prev;
+    public ListNode next;
+    public ListNode(int x) {
         val = x;
     }
     public static String print(ListNode t){

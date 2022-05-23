@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2020/3/17
  * @leetCode 4
  * @title 给定两个大小为 m 和 n 的有序数组 nums1 和 nums2。

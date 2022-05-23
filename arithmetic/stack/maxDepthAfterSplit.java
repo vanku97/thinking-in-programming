@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Stack;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2020/4/1
  * @leetCode 1111
  * @title 有效括号字符串 仅由 "(" 和 ")" 构成，并符合下述几个条件之一：

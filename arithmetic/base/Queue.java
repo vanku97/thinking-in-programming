@@ -1,3 +1,5 @@
+package base;
+
 public class Queue<I extends Number> {
 
 

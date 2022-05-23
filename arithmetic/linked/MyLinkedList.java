@@ -1,8 +1,9 @@
-import java.util.List;
-import java.util.TreeMap;
+package linked;
+
+import base.ListNode;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @createTime 2021年05月06日 20:06:00
  */
 public class MyLinkedList {

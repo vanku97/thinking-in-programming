@@ -2,7 +2,7 @@ import java.util.LinkedList;
 
 /**
  * 有向图
- * @author Albert Ku
+ * @author vanku
  * @date 2020/5/23
  */
 public class DirectedGraph<T> {

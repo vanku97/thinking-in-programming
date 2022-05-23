@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2020/4/18
  * @leetCode
  * @title 小朋友 A 在和 ta 的小伙伴们玩传信息游戏，游戏规则如下：

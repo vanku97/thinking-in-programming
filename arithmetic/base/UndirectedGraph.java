@@ -1,10 +1,11 @@
+package base;
 
 import java.util.LinkedList;
 import java.util.Queue;
 
 /**
  * 无向图
- * @author Albert Ku
+ * @author vanku
  * @date 2020/3/16
  */
 

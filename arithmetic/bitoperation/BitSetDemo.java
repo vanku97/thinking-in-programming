@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.BitSet;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2020/4/21
  */
 public class BitSetDemo {

@@ -3,7 +3,7 @@ import java.util.Map;
 import java.util.Stack;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2019-08-15
  * @time 10:41
  * @topic 有效括号

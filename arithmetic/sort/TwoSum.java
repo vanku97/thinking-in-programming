@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2019/6/21
  * @time 13:42
  * @content: Subject:两数之和  solution: 遍历数组 存储成Hash 根据余值查找下标  conclusion : 时间复杂度O(n) 空间复杂度O(n)

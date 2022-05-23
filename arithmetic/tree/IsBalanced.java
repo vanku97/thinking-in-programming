@@ -1,5 +1,5 @@
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2020/6/11
  * @leetCode 110
  * @title给定一个二叉树，判断它是否是高度平衡的二叉树。

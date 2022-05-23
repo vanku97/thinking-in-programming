@@ -59,7 +59,7 @@ import java.math.BigDecimal;
  *
  * 入帐出错怎么办？比如红包个数没了，但余额还有？
  * 答：最后会有一个take all操作。另外还有一个对账来保障。
- * @author Albert Ku
+ * @author vanku
  * @date 2020/4/22
  */
 public class GetRandomMoney {

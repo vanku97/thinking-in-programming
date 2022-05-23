@@ -1,9 +1,12 @@
-import java.util.ArrayList;
+package linked;
+
+import base.ListNode;
+
 import java.util.LinkedList;
-import java.util.List;
+
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2020/3/5
  * @leetCode 2
  * @timeComplexity

@@ -1,5 +1,5 @@
 /**
- * @author Albert Ku
+ * @author vanku
  * @createTime 2021年05月16日 13:23:00
  * 求出 nums 中每个 子集 的 异或总和 ，计算并返回这些值相加之 和
  */

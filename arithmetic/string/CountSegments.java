@@ -1,5 +1,5 @@
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2021/10/25
  * @leetCode
  * @title 统计字符串中的单词个数，这里的单词指的是连续的不是空格的字符。

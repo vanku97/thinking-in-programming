@@ -1,10 +1,7 @@
-import org.omg.CORBA.NO_IMPLEMENT;
-
-import javax.swing.*;
-import java.util.*;
+import base.ListNode;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2020/6/18
  * @leetCode 206
  * @title 反转链表

@@ -1,5 +1,5 @@
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2019/6/21
  * @time 14:17
  * @topic 整数反转

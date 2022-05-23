@@ -1,5 +1,9 @@
+package linked;
+
+import base.ListNode;
+
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2019/11/8
  * @time 13:01
  * @content

@@ -1,7 +1,7 @@
 import java.util.HashMap;
 
 /**
- * @author Albert Ku
+ * @author vanku
  * @date 2020/3/5
  * @leetCode 3
  * @timeComplexity
